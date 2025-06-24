@@ -1,0 +1,21 @@
+:root {
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  --text-xs: 1.2rem;
+  --text-sm: 1.3rem; 
+  --text-base: 1.5rem;    
+  --text-md: 1.65rem; 
+  --text-lg: 1.75rem;  
+  --text-xl: 2rem;  
+  --text-2xl: 2.25rem; 
+  --text-3xl: 2.5rem;     
+  margin: 0;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
